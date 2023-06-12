@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "concurrent-dictionary-key-benchmark", "concurrent-dictionary-key-benchmark\concurrent-dictionary-key-benchmark.csproj", "{A843D0BB-8EDF-44FC-B6A6-20EE3FFAE486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "concurrent-dictionary-multithread-benchmark", "concurrent-dictionary-multithread-benchmark\concurrent-dictionary-multithread-benchmark.csproj", "{66D4C9D9-CAB4-46A1-B99C-AD8B7949C739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A843D0BB-8EDF-44FC-B6A6-20EE3FFAE486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A843D0BB-8EDF-44FC-B6A6-20EE3FFAE486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A843D0BB-8EDF-44FC-B6A6-20EE3FFAE486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A843D0BB-8EDF-44FC-B6A6-20EE3FFAE486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D4C9D9-CAB4-46A1-B99C-AD8B7949C739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D4C9D9-CAB4-46A1-B99C-AD8B7949C739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D4C9D9-CAB4-46A1-B99C-AD8B7949C739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D4C9D9-CAB4-46A1-B99C-AD8B7949C739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65291205-E769-49AA-8D77-F8A802231089}
+	EndGlobalSection
+EndGlobal
